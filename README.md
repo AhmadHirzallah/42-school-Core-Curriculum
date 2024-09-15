@@ -8,6 +8,9 @@
 
 Welcome to the **42 School Core Curriculum** repository! This repository is dedicated to showcasing my progress and projects throughout the 42 school curriculum. Here, you will find detailed information about each project, along with links to their respective repositories.
 
+[![ahirzall's 42 stats](https://badge.mediaplus.ma/darkblue/ahirzall?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+
 # ✨ Projects
 
 <details open>
