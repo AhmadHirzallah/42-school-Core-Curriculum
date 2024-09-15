@@ -1,7 +1,8 @@
 <p align="center">
-   <img src="https://img.shields.io/badge/42%20School%20Core%20Curriculum-Progress-brightgreen?style=flat-square"/>
-   <img src="https://img.shields.io/github/last-commit/AhmadHirzallah/42-school-Core-Curriculum?style=flat-square&color=blue"/>
+   <img src="https://img.shields.io/badge/42%20School%20Core%20Curriculum-Progress-green?style=for-the-badge"/>
+   <img src="https://img.shields.io/github/last-commit/AhmadHirzallah/42-school-Core-Curriculum?style=for-the-badge&color=blue"/>
 </p>
+
 
 # 📚 Overview
 
@@ -9,16 +10,25 @@ Welcome to the **42 School Core Curriculum** repository! This repository is dedi
 
 # ✨ Projects
 
-### 📌 Libft 
+<details open>
+  <summary><h3 style="display: inline;">📌 Libft</h3></summary>
 
-<p align="left">
-   <img src="https://img.shields.io/badge/Libft-125%2F100-brightgreen?style=flat-square"/>
-   <img src="https://img.shields.io/badge/language-C-blue.svg?style=flat-square"/>
-</p>
+  <p align="middle">
+     <img src="https://img.shields.io/badge/Libft-125%2F100-brightgreen?style=flat-square"/>
+     <img src="https://img.shields.io/badge/language-C-blue.svg?style=flat-square"/>
+  </p>
 
-Libft is a foundational project in the 42 school curriculum. The aim is to recreate essential C standard library functions along with additional utilities. This experience enhances understanding of C programming and prepares students for more complex projects.
+  <p>Libft is a foundational project in the 42 school curriculum. The aim is to recreate essential C standard library functions along with additional utilities. This experience enhances understanding of C programming and prepares students for more complex projects.</p>
+</details>
 
-**Refer to: [📂 Libft Project repository](https://github.com/AhmadHirzallah/Libft) for detailed information about project, source files and compilation instructions.**
+<div style="margin-top: 20px; border-top: 1px solid #eaecef; padding-top: 10px;">
+   <p align="right">
+      <strong>🔗 Refer to:</strong> 
+      <a href="https://github.com/AhmadHirzallah/Libft" style="text-decoration: none; font-weight: bold;">📂 Libft Project repository</a> 
+      for detailed information about the project, source files, and compilation instructions.
+   </p>
+</div>
+
 
 # 🛠️ Other Projects
 
