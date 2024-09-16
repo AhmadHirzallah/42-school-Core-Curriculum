@@ -11,26 +11,24 @@ Welcome to the **42 School Core Curriculum** repository! This repository is dedi
 [![ahirzall's 42 stats](https://badge.mediaplus.ma/darkblue/ahirzall?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
-# ✨ Projects
+## ✨ Projects
 
-<details open>
+<details>
   <summary><h3 style="display: inline;">📌 Libft</h3></summary>
 
-  <p align="middle">
-     <img src="https://img.shields.io/badge/Libft-125%2F100-brightgreen?style=flat-square"/>
-     <img src="https://img.shields.io/badge/language-C-blue.svg?style=flat-square"/>
+  <p align="center">
+     <img src="https://img.shields.io/badge/Libft-125%2F100-brightgreen?style=flat-square" alt="Libft Score"/>
+     <img src="https://img.shields.io/badge/language-C-blue.svg?style=flat-square" alt="Language C"/>
   </p>
 
   <p>Libft is a foundational project in the 42 school curriculum. The aim is to recreate essential C standard library functions along with additional utilities. This experience enhances understanding of C programming and prepares students for more complex projects.</p>
-</details>
 
-<div style="margin-top: 20px; border-top: 1px solid #eaecef; padding-top: 10px;">
-   <p align="right">
-      <strong>🔗 Refer to:</strong> 
-      <a href="https://github.com/AhmadHirzallah/Libft" style="text-decoration: none; font-weight: bold;">📂 Libft Project repository</a> 
-      for detailed information about the project, source files, and compilation instructions.
-   </p>
-</div>
+  <div align="right" style="margin-top: 20px; border-top: 1px solid #eaecef; padding-top: 10px;">
+<strong>🔗 Visit:</strong> 
+<a href="https://github.com/AhmadHirzallah/Libft" style="text-decoration: none; font-weight: bold;">📂 Libft Project repository</a> 
+for detailed information about the project, source files, and compilation instructions.
+  </div>
+</details>
 
 
 # 🛠️ Other Projects
