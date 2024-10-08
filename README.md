@@ -36,7 +36,6 @@ for detailed information about the project, source files, and compilation instru
 
 # 🛠️ Other Projects
 
-- **ft_printf**: 
 - **Born2beroot**: 
 - **get_next_line** : 
 
