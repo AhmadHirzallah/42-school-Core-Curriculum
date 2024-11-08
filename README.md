@@ -71,4 +71,5 @@ Welcome to the **42 School Core Curriculum** repository! This repository is dedi
 - **Born2beroot**: 
 
 # 📫⚙️ Contact
-ahmad.hirzallah.pro@gmail.com
+ahmad.hirzallah.pro@gmail.com <br>
+[My LinkedIn Account](https://www.linkedin.com/in/ahmad-hirzallah-7721412a5/)
