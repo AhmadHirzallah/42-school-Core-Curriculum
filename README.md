@@ -64,11 +64,13 @@ Welcome to the **42 School Core Curriculum** repository! This repository is dedi
   </div> 
 </details>
 
+<h3>🖥️ Born2beroot </h3>
+
 
 
 # 🛠️ Other Projects
-
-- **Born2beroot**: 
+<h3>Pipex</h3>
+<h3>So_long</h3>
 
 # 📫⚙️ Contact
 ahmad.hirzallah.pro@gmail.com <br>
